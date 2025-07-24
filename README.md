@@ -1,5 +1,11 @@
-# kioskoH2M-web
-# KioskoH2MWeb
+<h1 align="center">KioskoH2M-WEB</h1>
+<h3 align='center'>Software Engineer | AI, ML, DL & Computer Vision</h3>
+<p align="center">
+  <!-- Languages and Frameworks -->
+  <img src="https://img.shields.io/badge/Angular-17-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-20.11.1-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-5.4.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.3.
 
